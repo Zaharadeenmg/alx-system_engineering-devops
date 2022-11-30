@@ -1,1 +1,1 @@
-This repository contains all alx projects pertaining shell permissions
+Alx software engineering, this repository contains all alx porjects pertaining to shell basics 
